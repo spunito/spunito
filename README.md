@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hola 👋  soy Axel / Spunito ✨ </h1> 
 
-<!--
-**spunito/spunito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  
+<a href="https://www.linkedin.com/in/axel-munoz-abarca/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "mailto:axelmunozabarca@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
+<br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
 
-Here are some ideas to get you started:
+<p align="left">
+🎓 Estudiante de Ingenieria en Informatica desde el 2021
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎇Disfruto explorar nuevas tecnologías y participar en proyectos que exigen creatividad y eficiencia.
+
+
+📫 Contacto: **axelmunozabarca@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,py,django,css,html,js,gcp,nodejs,mysql,sqlite,firebase,angular,git,bootstrap,github,vscode&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+
