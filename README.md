@@ -30,7 +30,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,py,django,css,html,js,react,gcp,nodejs,mysql,sqlite,firebase,angular,git,bootstrap,github,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,sqlite,firebase,git,tailwind,github,vscode&perline=7" />
   </a>
 </p>
 <br>
